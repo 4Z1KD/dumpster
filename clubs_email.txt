@@ -282,3 +282,177 @@ Emails: arm@arm.org.mo
 
 MALAYSIA Malaysian Amateur Radio Transmitters’ Society [MARTS]
 Emails: president@marts.org.my, secretary@marts.org.my
+
+MALI Association Malienne des Radioamateurs [AMAR]
+Emails: hamradio@afribone.net.ml, hamradio@afribone.net.ml
+
+MALTA Malta Amateur Radio League [MARL]
+Emails: 9h1mrl@gmail.com, 9h1sp@live.com
+
+MAURITIUS Mauritius Amateur Radio Society [MARS]
+Emails: 3b8cf@myt.mu
+
+MEXICO Federación Mexicana de Radioexperimentadores, A.C. [FMRE]
+Emails: fmre@fmre.org.mx, xe1sov@fmre.org.mx
+
+MONACO Association des Radioamateurs de Monaco [ARM]
+Emails: arm@arm.mc
+
+MOROCCO Association Royale des Radioamateurs du Maroc [ARRAM]
+Emails: arram@menara.ma, a7a@menara.ma
+
+NAMIBIA Namibian Amateur Radio League [NARL]
+Emails: narl@africaonline.com.na
+
+NETHERLANDS VERON (Vereniging voor Experimenteel Radio Onderzoek in Nederland)
+Emails: int@veron.nl
+
+NEW ZEALAND New Zealand Association of Radio Transmitters [NZART]
+Emails: nzart@nzart.org.nz, zl2tll@nzart.org.nz
+
+NIGERIA Nigeria Amateur Radio Society [NARS]
+Emails: nigez2000@yahoo.com, 5n7q@yahoo.com
+
+NORWAY Norsk Radio Relæ Liga [NRRL]
+Emails: nrrl@nrrl.no
+
+PALESTINE Palestinian Radio Amateurs Society [PRAS]
+Emails: pras.ps@hotmail.com, pras.ps@gmail.com
+
+PANAMA Liga Panameña de Radioaficionados [LPR]
+Emails: hp1lpr@gmail.com, hp1lpr@hotmail.com
+
+PARAGUAY Radio Club Paraguayo [RCP]
+Emails: secretariarcp@gmail.com
+
+PERU Radio Club Peruano [RCP]
+Emails: radioclubperuano@gmail.com
+
+PHILIPPINES Philippine Amateur Radio Association [PARA]
+Emails: para@pararadio.com
+
+PORTUGAL Rede dos Emissores Portugueses [REP]
+Emails: rep@rep.pt
+
+QATAR Qatar Amateur Radio Society [QARS]
+Emails: qatarars@yahoo.com
+
+ROMANIA Federaţia Română de Radioamatorism [FRR]
+Emails: yo3kpa@yahoo.com
+
+RUSSIA Soyuz Radiolyubitelei Rossii [SRR]
+Emails: rw3dd@rdxc.org, rw3dd@rdxc.org
+
+RWANDA Association des Radio Amateurs du Rwanda [ARR]
+Emails: arrwanda@gmail.com
+
+SAINT KITTS AND NEVIS St. Kitts Nevis Anguilla Amateur Radio Society [SKNAARS]
+Emails: vp2mrr@sknaars.org
+
+SAINT LUCIA Saint Lucia Amateur Radio Club [SLARC]
+Emails: sarl.stlucia@gmail.com
+
+SAINT VINCENT AND THE GRENADINES Saint Vincent and the Grenadines Amateur Radio Club [SVGARC]
+Emails: svgarc@gmail.com
+
+SAUDI ARABIA Saudi Amateur Radio Society [SARS]
+Emails: info@sars.org.sa
+
+SEYCHELLES Seychelles Amateur Radio Association [SARA]
+Emails: 6y5r@juno.com
+
+SIERRA LEONE Sierra Leone Amateur Radio Society [SLARS]
+Emails: slars@sierratel.sl
+
+SINGAPORE Singapore Amateur Radio Transmitting Society [SARTS]
+Emails: sarts@sarts.org.sg
+
+SLOVAKIA Slovenský Zväz Rádioamatérov [SZR]
+Emails: szr@szr.sk
+
+SLOVENIA Zveza Radioamaterjev Slovenije [ZRS]
+Emails: zrs@hamradio.si
+
+SOLOMON ISLANDS Solomon Islands Amateur Radio Club [SIARC]
+Emails: siarc@solomon.com.sb
+
+SOUTH AFRICA South African Radio League [SARL]
+Emails: admin@sarl.org.za
+
+SPAIN Unión de Radioaficionados Españoles [URE]
+Emails: ure@ure.es
+
+SRI LANKA Radio Society of Sri Lanka [RSSL]
+Emails: rssltv@gmail.com
+
+SUDAN Sudan Amateur Radio Union [SARU]
+Emails: saru@sudanradio.net
+
+SURINAME Surinaamse Radio Amateurs [SRA]
+Emails: sra@sr.net
+
+SWAZILAND Swaziland Amateur Radio Society [SARS]
+Emails: sars@realnet.co.sz
+
+SWEDEN Sveriges Sändareamatörer [SSA]
+Emails: hq@ssa.se
+
+SWITZERLAND Union Schweizerischer Kurzwellen-Amateure [USKA]
+Emails: office@uska.ch
+
+SYRIA Syrian Radio Amateurs Society [SARS]
+Emails: sars@sars.sy
+
+THAILAND Radio Amateur Society of Thailand [RAST]
+Emails: info@rast.or.th
+
+TONGA Tonga Amateur Radio Society [TARS]
+Emails: tars@tonga.to
+
+TRINIDAD AND TOBAGO Trinidad and Tobago Amateur Radio Society [TTARS]
+Emails: ttars@trinidad.net
+
+TUNISIA Association des Radio Amateurs Tunisiens [ARAT]
+Emails: arat@planet.tn
+
+TURKEY Türkiye Radyo Amatörleri Cemiyeti [TRAC]
+Emails: info@trac.org.tr
+
+UGANDA Uganda Amateur Radio Society [UARS]
+Emails: uars@uars.org
+
+UKRAINE Ukrainian Amateur Radio League [UARL]
+Emails: uarl@uarl.org
+
+UNITED ARAB EMIRATES Emirates Amateur Radio Society [EARS]
+Emails: ears@earsradio.ae
+
+UNITED KINGDOM Radio Society of Great Britain [RSGB]
+Emails: rsgb@rsgb.org
+
+UNITED STATES American Radio Relay League [ARRL]
+Emails: hq@arrl.org
+
+URUGUAY Radio Club Uruguayo [RCU]
+Emails: rcu@adinet.com.uy
+
+UZBEKISTAN Uzbekistan Radio Amateur Society [URAS]
+Emails: uras@uzbekistan.com
+
+VANUATU Vanuatu Amateur Radio Society [VARS]
+Emails: vars@vanuatu.com
+
+VENEZUELA Radio Club Venezolano [RCV]
+Emails: info@radioclubvenezolano.org
+
+VIETNAM Vietnam Amateur Radio Club [VARC]
+Emails: varc@vietnam.com
+
+YEMEN Yemen Amateur Radio Society [YARS]
+Emails: yars@y.net.ye
+
+ZAMBIA Zambia Amateur Radio Society [ZARS]
+Emails: zars@zamnet.zm
+
+ZIMBABWE Zimbabwe Amateur Radio Society [ZARS]
+Emails: zars@zol.co.zw
